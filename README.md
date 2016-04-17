@@ -1,2 +1,1 @@
-# leechanx.github.io
-李琛轩的主页
+李琛轩的个人简历
