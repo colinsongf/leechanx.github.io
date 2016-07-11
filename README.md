@@ -1,7 +1,7 @@
 # 个人信息
 
  - 李琛轩/男/1991
- - 硕士/哈尔滨工业大学计算机系 
+ - 硕士/哈尔滨工业大学计算机技术系 
  - 工作年限：X年 
  - 手机：15145103352
  - Email：leechan8@outlook.com
@@ -23,7 +23,7 @@
 ### 硕士：2014.09-2016.07，哈尔滨工业大学，计算机网络与信息安全中心
 成绩Top15%；获一等奖学金1次，获二等奖学金1次；任《C语言程序设计》课程助教；
 
-### 本科：2010.09-2014.06，哈尔滨工业大学，计算机科学与技术专业
+### 学士：2010.09-2014.06，哈尔滨工业大学，计算机科学与技术专业
 学分绩Top25%；获得人民奖学金2次；获得保送研究资格；
 
 ---
@@ -48,48 +48,50 @@
 
 ### Spark on ODPS项目 
 
-从事内容：阿里云事业群-数据平台事业部实习；进入大数据计算与处理框架Moye项目组，前期熟悉Spark核心原理；了解基于内存的ODPS Moye分布式计算架构；编写一些小工具；后期阅读了Spark关于Task调度的源代码；参与了Moye计算框架的调度重构的部分工作，包括：Task级别的黑名单机制添加、Kill Task机制添加、动态匹配Task Locality调度机制、实现Speculative Task机制优化全局调度时间等，所负责部分已全部上线。
+**从事内容** 
+前期熟悉Spark核心原理；了解基于内存的ODPS Moye分布式计算架构；编写一些小工具；后期阅读了Spark关于Task调度的源代码；参与了Moye计算框架的调度重构的部分工作，包括：Task级别的黑名单机制添加、Kill Task机制添加、动态匹配Task Locality调度机制、实现Speculative Task机制优化全局调度时间等，所负责部分已全部上线。
 
 ---
 
 # 其他项目
 
-### 基于Spark的Netflix电影数据离线与在线推荐系统，实验室科研项目，2016.02-2016.06
+###1. [基于Spark的Netflix电影数据离线与在线推荐系统](https://github.com/LeechanX/Netflix-Recommender-with-Spark)，实验室科研项目，2016.02-2016.06
 
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+ - [**项目代码**]()：项目的简要说明，Star和Fork数多的可以注明
 
-### 国家863 总装（保密）项目-高交互蜜罐，实验室863项目，2014.11-2015.01
+###2. 国家863 总装（保密）项目-高交互蜜罐，实验室863项目，2014.11-2015.01
  - **基本信息** 基于Xen的高交互蜜罐主动防御系统项目；本人负责Xen虚拟机的信息隐藏模块，防止攻击者探测到当前处于Xen虚拟机/蜜罐环境；
 	
  - **核心技术** 修改内核代码、修改Unix命令源码、Sunday字符串匹配算法等；
 
-### 基于属性熵值的网站分类系统的设计与现实，实验室派遣到任子行公司项目，2014.02-2014.05
+### 3. [基于属性熵值的网站分类系统的设计与现实](https://github.com/LeechanX/lcx-KNN-website-classifier-system)，实验室派遣到任子行公司项目，2014.02-2014.05
  - **基本信息** 实验室派遣到任子行公司从事开发网站类型识别分类系统设计；浙江IDC项目；Python实现，60天完成，在50000个测试页面上达到85.05%的分类正确率；
 	
  - **核心技术** 时间复杂度O(n)的网页正文提取技术，改进的卡方检验方法特征提取，改进的”秒级”快速KNN分类方法，结合属性熵值改进的更精确的KNN分类方法等；
 
 ## 其他年幼无知时期的课程设计
+[**gcc、g++程序函数调用关系生成器**](https://github.com/LeechanX/Function-Call-Graph-Creator)<br/>
+finstrument-functions参数，pygraphviz，Depth-First-Search算法的应用；
 
-基于“今日哈工大”新闻的简易搜索引擎系统：新闻抓取，利用Spark进行索引构建，索引检索，文档管理等；
+[**基于“今日哈工大”新闻的简易搜索引擎系统**](https://github.com/LeechanX/EasySearchEngine-V2.0) <br/>
+新闻抓取，利用Spark进行索引构建，索引检索，文档管理等；
 	
-北京地铁路线查询系统：bfs算法，基于相关矩阵的最少换乘算法，Dijkstra算法
+[**北京地铁路线查询系统**](https://github.com/LeechanX/Subway-Line-Query-System)<br/>
+Breadth-First-Search算法的应用，基于相关矩阵的最少换乘算法，Dijkstra算法的应用
 	
-编译器之设计与实现：词法分析，语法分析，语义分析；
+[**编译器之设计与实现**](https://github.com/LeechanX/My-Compiler-Designer)<br/>
+词法分析，语法分析，语义分析；
 	
-图书馆管理系统：JSP，Struts2，Hibernate，MySQL，jQuery；
+[**图书馆管理系统**](https://github.com/LeechanX/LibraryManageSystem)<br/>
+JSP，Struts2，Hibernate，MySQL，jQuery；
 
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+- [Apache Spark调度之Speculative Task机制详细探究](http://blog.csdn.net/oxuannishi/article/details/47128707)
 
 ## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
 
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
+ - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 
